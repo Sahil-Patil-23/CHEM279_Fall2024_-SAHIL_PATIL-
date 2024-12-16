@@ -4,3 +4,9 @@
 [submodule "Chem279_HW2"]
 	path = Chem279_HW2
 	url = https://github.com/Sahil-Patil-23/Chem279_HW2
+[submodule "Extended-Huckel-Program"]
+	path = Extended-Huckel-Program
+	url = https://github.com/Sahil-Patil-23/Extended-Huckel-Program
+[submodule "Chem279_HW4"]
+	path = Chem279_HW4
+	url = https://github.com/Sahil-Patil-23/Chem279_HW4
