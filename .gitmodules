@@ -13,3 +13,6 @@
 [submodule "Chem279-HW5"]
 	path = Chem279-HW5
 	url = https://github.com/Sahil-Patil-23/Chem279-HW5
+[submodule "Chem279_FinalProj"]
+	path = Chem279_FinalProj
+	url = https://github.com/Sahil-Patil-23/Chem279_FinalProj
