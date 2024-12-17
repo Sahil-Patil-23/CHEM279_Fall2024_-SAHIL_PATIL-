@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "sstream": "cpp",
+        "tuple": "cpp",
+        "stdexcept": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
